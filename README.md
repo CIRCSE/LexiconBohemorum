@@ -15,8 +15,8 @@ in Czech Lands", [available](http://hdl.handle.net/11234/1-4792) via the LINDAT/
 - references  : ```23509 ```
 
 ### Link Summary (main entries only):
-- linked entries: ```15758```
-- to be linked : ```9185```
+- linked entries: ```23509``` ( ```32``` programmatilly Not linked ) 
+- to be linked : ```0```
 
 
 ## How to cite
