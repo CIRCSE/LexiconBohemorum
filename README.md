@@ -24,6 +24,7 @@ Gamba, F., Passarotti, M., Ruffolo, P. (forth.). Linking the Dictionary of Medie
 
 The Dictionary of Medieval Latin in Czech Lands: Electronic Version 2.0 [Slovník středověké latiny v českých zemích: elektronická verze 2.0], Prague: Filosofický ústav AV ČR, v. v. i., 2019. Available at: http://lb.ics.cas.cz.
 
+[![DOI](https://zenodo.org/badge/718079876.svg)](https://zenodo.org/doi/10.5281/zenodo.10797303)
 
 ## Funding
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
